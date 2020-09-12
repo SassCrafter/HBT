@@ -143,7 +143,7 @@ p {
 #showcase {
 	background: url("../img/showcase.jpg") no-repeat center center;
 	background-size: cover;
-	height: 75vh;
+	height: 600px;
 }
 
 #showcase .showcase-content {
